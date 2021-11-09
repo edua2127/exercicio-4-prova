@@ -1,0 +1,2 @@
+um novo cliente foi cadastrado, de nome: Israel gomes e de id: 2
+uma mensagem foi cadastrada, com o conteudo de: teste de log e de id: 6

@@ -1,0 +1,6 @@
+0|ola professor|1
+0|segundo teste|2
+0|terceiro teste|3
+0|quarto teste|4
+1|teste 1 com o cliente pedro|5
+2|teste de log|6
