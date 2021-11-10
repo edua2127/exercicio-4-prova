@@ -4,3 +4,5 @@
 0|quarto teste|4
 1|teste 1 com o cliente pedro|5
 2|teste de log|6
+3|TESTE FINAL|7
+2|ultimos teste e verificacao a procua de erros|8

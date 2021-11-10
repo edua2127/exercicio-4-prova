@@ -1,7 +1,5 @@
 import DAO.ClienteDAO;
 import DAO.MensagemDAO;
-import model.Cliente;
-import model.Mensagem;
 import view.ClienteView;
 
 import java.util.Scanner;
@@ -18,11 +16,13 @@ public class Principal {
             System.out.println("[1] cadastrar clientes");
             System.out.println("[2] listar clientes");
             System.out.println("[3] selecionar cliente");
+            System.out.println("[4] sair");
             System.out.print("digite: ");
             switch (Integer.parseInt(scanner.nextLine())) {
                 case 1-> clienteView.cadastrarCliente();
                 case 2->clienteView.listarClientes();
                 case 3->clienteView.selecionarCliente();
+                case 4->{return;}
             }
         }
     }

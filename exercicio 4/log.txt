@@ -1,2 +1,5 @@
 um novo cliente foi cadastrado, de nome: Israel gomes e de id: 2
 uma mensagem foi cadastrada, com o conteudo de: teste de log e de id: 6
+um novo cliente foi cadastrado, de nome: FABIANO e de id: 3
+uma mensagem foi cadastrada, com o conteudo de: TESTE FINAL e de id: 7
+uma mensagem foi cadastrada, com o conteudo de: ultimos teste e verificacao a procua de erros e de id: 8
